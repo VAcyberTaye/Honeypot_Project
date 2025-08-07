@@ -16,7 +16,7 @@ In this lab, we set up a basic home SOC in Azure from scratch. Using a free Azur
 
 <h2>Environments Used </h2>
 
--<b>Microsoft Sentinel</b> (SIEM)
+- <b>Microsoft Sentinel</b> (SIEM)
 - <b>Windows 10</b> (22H2)
 
 
